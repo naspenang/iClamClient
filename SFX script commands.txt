@@ -1,0 +1,15 @@
+;The comment below contains SFX script commands
+
+Setup=Setup.exe
+TempMode
+Silent=2
+Overwrite=1
+Title=iClam Client v1.0.14
+Text
+{
+Integrated Computer Lab Manager
+}
+License=iClam Client v1.0.14
+{
+Integrated Computer Lab Manager
+}
