@@ -4,12 +4,12 @@ Setup=Setup.exe
 TempMode
 Silent=2
 Overwrite=1
-Title=iClam Client v1.0.14
+Title=iClam Client v1.0.15
 Text
 {
 Integrated Computer Lab Manager
 }
-License=iClam Client v1.0.14
+License=iClam Client v1.0.15
 {
 Integrated Computer Lab Manager
 }
