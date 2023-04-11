@@ -1,0 +1,4 @@
+REM "C:\Program Files\WinRAR\rar" a -r -m5 -md512m -ep1 -s -tl -ma5 -htb -rr10p -sfx -z"Setup.exe" -ep2 -ibck -ibck64 -o+ -iicon"icon.ico" -ilog"logo.bmp" MyArchive.exe MyFolder /admin /sfxtitle"Test Title" /sfxtext"Test text" /licensetitle"Test license title" /licensetext"Test license text" "-x!.git" "-x*.ico" "-x*.bmp" "-x*.txt" "-x*.bat" "-x*.gitattributes"
+"C:\Program Files\WinRAR\rar" a -r -m5 -md512m -ep1 -s -tl -ma5 -htb -rr10p -sfx -ep2 -ibck -ibck64 -o+ -iicon"D:\Users\Nash\Desktop\Projects\_iclam_series\iClamClient-Installer\iclam-icon-bw.ico" -ilog"D:\Users\Nash\Desktop\Projects\_iclam_series\iClamClient-Installer\Winrar-SFX-logo.bmp" MyArchive.exe * /admin -x\.git -x*.ico -x*.bmp -x*.txt -x*.bat -x*.gitattributes
+
+PAUSE
